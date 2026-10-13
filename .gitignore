@@ -12,3 +12,9 @@ myvenv/
 
 # Mac
 .DS_Store
+
+# Lab 2 data and outputs
+edges2shoes/
+edges2shoes.tar.gz
+pix2pix_runs/
+*.pt
